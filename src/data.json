@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "options": ["A. Berlin", "B. Madrid", "C. Paris", "D. Rome"],
+    "answer": "C. Paris"
+  },
+  {
+    "id": 2,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["A. Venus", "B. Mars", "C. Jupiter", "D. Saturn"],
+    "answer": "B. Mars"
+  },
+  {
+    "id": 3,
+    "question": "What is the largest ocean on Earth?",
+    "options": ["A. Atlantic Ocean", "B. Indian Ocean", "C. Pacific Ocean", "D. Arctic Ocean"],
+    "answer": "C. Pacific Ocean"
+  },
+  {
+    "id": 4,
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["A. Charles Dickens", "B. William Shakespeare", "C. Mark Twain", "D. Jane Austen"],
+    "answer": "B. William Shakespeare"
+  },
+  {
+    "id": 5,
+    "question": "What is the chemical symbol for water?",
+    "options": ["A. O2", "B. H2O", "C. CO2", "D. NaCl"],
+    "answer": "B. H2O"
+  },
+  {
+    "id": 6,
+    "question": "Who painted the Mona Lisa?",
+    "options": ["A. Vincent van Gogh", "B. Leonardo da Vinci", "C. Pablo Picasso", "D. Claude Monet"],
+    "answer": "B. Leonardo da Vinci"
+  },
+  {
+    "id": 7,
+    "question": "What is the square root of 144?",
+    "options": ["A. 10", "B. 11", "C. 12", "D. 13"],
+    "answer": "C. 12"
+  },
+  {
+    "id": 8,
+    "question": "Who was the first President of the United States?",
+    "options": ["A. Thomas Jefferson", "B. Abraham Lincoln", "C. George Washington", "D. John Adams"],
+    "answer": "C. George Washington"
+  },
+  {
+    "id": 9,
+    "question": "Which is the smallest continent by land area?",
+    "options": ["A. Europe", "B. Australia", "C. Antarctica", "D. South America"],
+    "answer": "B. Australia"
+  },
+  {
+    "id": 10,
+    "question": "What is the main ingredient in guacamole?",
+    "options": ["A. Tomato", "B. Cucumber", "C. Avocado", "D. Spinach"],
+    "answer": "C. Avocado"
+  },
+  {
+    "id": 11,
+    "question": "What is the speed of light?",
+    "options": ["A. 300,000 km/s", "B. 150,000 km/s", "C. 450,000 km/s", "D. 600,000 km/s"],
+    "answer": "A. 300,000 km/s"
+  },
+  {
+    "id": 12,
+    "question": "What is the boiling point of water at sea level?",
+    "options": ["A. 90°C", "B. 100°C", "C. 110°C", "D. 120°C"],
+    "answer": "B. 100°C"
+  },
+  {
+    "id": 13,
+    "question": "Who developed the theory of relativity?",
+    "options": ["A. Isaac Newton", "B. Albert Einstein", "C. Nikola Tesla", "D. Galileo Galilei"],
+    "answer": "B. Albert Einstein"
+  },
+  {
+    "id": 14,
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": ["A. Oxygen", "B. Osmium", "C. Ozone", "D. Oganesson"],
+    "answer": "A. Oxygen"
+  },
+  {
+    "id": 15,
+    "question": "What is the largest planet in our solar system?",
+    "options": ["A. Earth", "B. Mars", "C. Jupiter", "D. Saturn"],
+    "answer": "C. Jupiter"
+  },
+  {
+    "id": 16,
+    "question": "What is the smallest bone in the human body?",
+    "options": ["A. Stapes", "B. Femur", "C. Humerus", "D. Radius"],
+    "answer": "A. Stapes"
+  },
+  {
+    "id": 17,
+    "question": "Who was the first man to step on the moon?",
+    "options": ["A. Yuri Gagarin", "B. Neil Armstrong", "C. Buzz Aldrin", "D. John Glenn"],
+    "answer": "B. Neil Armstrong"
+  },
+  {
+    "id": 18,
+    "question": "What is the chemical symbol for gold?",
+    "options": ["A. Au", "B. Ag", "C. Pb", "D. Fe"],
+    "answer": "A. Au"
+  },
+  {
+    "id": 19,
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["A. China", "B. South Korea", "C. Japan", "D. India"],
+    "answer": "C. Japan"
+  },
+  {
+    "id": 20,
+    "question": "What is the largest species of shark?",
+    "options": ["A. Great White Shark", "B. Hammerhead Shark", "C. Whale Shark", "D. Tiger Shark"],
+    "answer": "C. Whale Shark"
+  },
+  {
+    "id": 21,
+    "question": "What is the national currency of the United States?",
+    "options": ["A. Pound", "B. Yen", "C. Dollar", "D. Euro"],
+    "answer": "C. Dollar"
+  },
+  {
+    "id": 22,
+    "question": "What is the longest river in the world?",
+    "options": ["A. Amazon River", "B. Nile River", "C. Yangtze River", "D. Mississippi River"],
+    "answer": "B. Nile River"
+  },
+  {
+    "id": 23,
+    "question": "What is the tallest mountain in the world?",
+    "options": ["A. K2", "B. Mount Everest", "C. Kangchenjunga", "D. Mount Fuji"],
+    "answer": "B. Mount Everest"
+  },
+  {
+    "id": 24,
+    "question": "Which animal is known as the King of the Jungle?",
+    "options": ["A. Lion", "B. Elephant", "C. Tiger", "D. Bear"],
+    "answer": "A. Lion"
+  },
+  {
+    "id": 25,
+    "question": "Which country is the largest by area?",
+    "options": ["A. Canada", "B. United States", "C. Russia", "D. China"],
+    "answer": "C. Russia"
+  },
+  {
+    "id": 26,
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["A. Gold", "B. Iron", "C. Diamond", "D. Platinum"],
+    "answer": "C. Diamond"
+  },
+  {
+    "id": 27,
+    "question": "Which continent is known as the 'Dark Continent'?",
+    "options": ["A. Africa", "B. Asia", "C. Europe", "D. Australia"],
+    "answer": "A. Africa"
+  },
+  {
+    "id": 28,
+    "question": "What is the capital of Japan?",
+    "options": ["A. Beijing", "B. Seoul", "C. Tokyo", "D. Hanoi"],
+    "answer": "C. Tokyo"
+  },
+  {
+    "id": 29,
+    "question": "Which chemical element has the atomic number 1?",
+    "options": ["A. Oxygen", "B. Hydrogen", "C. Helium", "D. Carbon"],
+    "answer": "B. Hydrogen"
+  },
+  {
+    "id": 30,
+    "question": "Which language is primarily spoken in Brazil?",
+    "options": ["A. Spanish", "B. French", "C. Portuguese", "D. Italian"],
+    "answer": "C. Portuguese"
+  },
+  {
+    "id": 31,
+    "question": "What is the currency of Japan?",
+    "options": ["A. Yuan", "B. Yen", "C. Won", "D. Ringgit"],
+    "answer": "B. Yen"
+  },
+  {
+    "id": 32,
+    "question": "Which planet is closest to the Sun?",
+    "options": ["A. Venus", "B. Earth", "C. Mercury", "D. Mars"],
+    "answer": "C. Mercury"
+  },
+  {
+    "id": 33,
+    "question": "Which animal is the largest land mammal?",
+    "options": ["A. Elephant", "B. Rhino", "C. Hippo", "D. Giraffe"],
+    "answer": "A. Elephant"
+  },
+  {
+    "id": 34,
+    "question": "What is the national sport of Japan?",
+    "options": ["A. Baseball", "B. Sumo Wrestling", "C. Karate", "D. Judo"],
+    "answer": "B. Sumo Wrestling"
+  },
+  {
+    "id": 35,
+    "question": "What is the largest desert in the world?",
+    "options": ["A. Sahara", "B. Arctic", "C. Antarctic", "D. Gobi"],
+    "answer": "C. Antarctic"
+  },
+  {
+    "id": 36,
+    "question": "Who discovered penicillin?",
+    "options": ["A. Alexander Fleming", "B. Marie Curie", "C. Louis Pasteur", "D. Thomas Edison"],
+    "answer": "A. Alexander Fleming"
+  },
+  {
+    "id": 37,
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["A. Mercury", "B. Lead", "C. Zinc", "D. Tin"],
+    "answer": "A. Mercury"
+  },
+  {
+    "id": 38,
+    "question": "What is the chemical symbol for silver?",
+    "options": ["A. Au", "B. Ag", "C. Pb", "D. Fe"],
+    "answer": "B. Ag"
+  },
+  {
+    "id": 39,
+    "question": "What is the main ingredient in a Caesar Salad?",
+    "options": ["A. Lettuce", "B. Spinach", "C. Kale", "D. Cabbage"],
+    "answer": "A. Lettuce"
+  },
+  {
+    "id": 40,
+    "question": "What is the most populous country in the world?",
+    "options": ["A. India", "B. China", "C. United States", "D. Indonesia"],
+    "answer": "B. China"
+  },
+  {
+    "id": 41,
+    "question": "What is the chemical symbol for salt?",
+    "options": ["A. NaCl", "B. H2O", "C. CO2", "D. KCl"],
+    "answer": "A. NaCl"
+  },
+  {
+    "id": 42,
+    "question": "Which is the smallest planet in the Solar System?",
+    "options": ["A. Venus", "B. Mars", "C. Mercury", "D. Pluto"],
+    "answer": "C. Mercury"
+  },
+  {
+    "id": 43,
+    "question": "Who invented the telephone?",
+    "options": ["A. Alexander Graham Bell", "B. Thomas Edison", "C. Nikola Tesla", "D. Galileo Galilei"],
+    "answer": "A. Alexander Graham Bell"
+  },
+  {
+    "id": 44,
+    "question": "What is the name of the longest bone in the human body?",
+    "options": ["A. Tibia", "B. Femur", "C. Humerus", "D. Radius"],
+    "answer": "B. Femur"
+  },
+  {
+    "id": 45,
+    "question": "Which is the largest island in the world?",
+    "options": ["A. Madagascar", "B. Greenland", "C. New Guinea", "D. Borneo"],
+    "answer": "B. Greenland"
+  },
+  {
+    "id": 46,
+    "question": "What is the national flower of Japan?",
+    "options": ["A. Cherry Blossom", "B. Lotus", "C. Rose", "D. Orchid"],
+    "answer": "A. Cherry Blossom"
+  },
+  {
+    "id": 47,
+    "question": "Who is known as the father of modern physics?",
+    "options": ["A. Isaac Newton", "B. Albert Einstein", "C. Galileo Galilei", "D. Niels Bohr"],
+    "answer": "B. Albert Einstein"
+  },
+  {
+    "id": 48,
+    "question": "What is the largest organ in the human body?",
+    "options": ["A. Brain", "B. Heart", "C. Skin", "D. Liver"],
+    "answer": "C. Skin"
+  },
+  {
+    "id": 49,
+    "question": "Who is the author of 'Harry Potter'?",
+    "options": ["A. J.K. Rowling", "B. J.R.R. Tolkien", "C. George R.R. Martin", "D. C.S. Lewis"],
+    "answer": "A. J.K. Rowling"
+  },
+  {
+    "id": 50,
+    "question": "Which planet is known as the Blue Planet?",
+    "options": ["A. Uranus", "B. Neptune", "C. Earth", "D. Venus"],
+    "answer": "C. Earth"
+  }
+]
