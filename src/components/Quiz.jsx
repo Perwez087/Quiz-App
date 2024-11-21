@@ -9,7 +9,7 @@ const Quiz = () => {
   const [currentQuestionIndex, setQuestionIndex] = useState(0);
   const [currentAnswer, setCurrentAnswer] = useState(null);
   const [score, setScore] = useState(0);
-  const [timeLeft, setTimeLeft] = useState(5);
+  const [timeLeft, setTimeLeft] = useState(7 * 60);
 
   const handleOptions = (option) => {
     setCurrentAnswer(option);
